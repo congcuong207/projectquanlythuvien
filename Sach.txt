@@ -1,0 +1,5 @@
+101#Toan cao cap#Nguyễn Đình Trí#Bộ giáo dục#2016#18
+102#Python cơ bản#Nguyễn Văn Hậu#Bo giao duc#20/07/2019#25
+103#Lập trình HDT#Nguyễn Thị Hải Năng#Khoa CNTT#2020#15
+104#Xác Suất thống kê#Đào Vũ Hồ#Bộ giáo dục đào tạo#2020#14
+105#Triết Mac-Lenin#Đào Thị Hiên#Bộ giáo dục đào tạo#2019#30
